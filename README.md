@@ -10,10 +10,10 @@ Depencies
 Credits
 - Wiebren-3
 - ES_EXTENDED team
-- 's standard ESX Job
 
 Contact
 - @Wiebren#6393 (On discord)
 
 Items needed?
 - https://github.com/Wiebren-3/esx_pharmacyitems
+- This is a WIP, not done yet :)
