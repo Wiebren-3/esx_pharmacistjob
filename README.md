@@ -14,3 +14,6 @@ Credits
 
 Contact
 - @Wiebren#6393 (On discord)
+
+Items needed?
+- https://github.com/Wiebren-3/esx_pharmacyitems
