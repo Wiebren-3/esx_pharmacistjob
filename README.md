@@ -1,6 +1,7 @@
 # esx_pharmacistjob
 
 Discription
+- This is a pharmacy job 
 
 Depencies
 - esx_billing
