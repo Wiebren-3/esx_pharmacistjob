@@ -19,7 +19,7 @@ client_scripts {
 	'@es_extended/locale.lua',
 	'config.lua',
 	'locales/en.lua',
-	'localization/en.lua',
+	'localization/nl_pharmasistjob.sql',
 	'client/main.lua'
 }
 
