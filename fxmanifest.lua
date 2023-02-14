@@ -19,7 +19,7 @@ client_scripts {
 	'@es_extended/locale.lua',
 	'config.lua',
 	'locales/en.lua',
-	'locales/fr.lua',
+	'localization/en.lua',
 	'client/main.lua'
 }
 
