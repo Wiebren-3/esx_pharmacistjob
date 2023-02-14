@@ -5,7 +5,7 @@ Locales['en'] = {
   ['loanMenuItem']                                    = "📁 Loans",
   ['activeLoanMenuItem']                              = "📁 Active Loans",
   ['frozenLoanMenuItem']                              = "📁 Frozen Loans",
-  ['doLoanMenuItem']                                  = "💰 Make a Loan",
+  ['doLoanMenuItem']                                  = "📁 Make a Loan",
   ['billingMenuItem']                                 = "📝 Billing",
   ['separatorMenuItem']                               = "- - - - -",
 
@@ -51,13 +51,13 @@ Locales['en'] = {
   --######################
   --#######STOCKS#########
   --######################
-  ['get_weapon']                                         = '🔫 Take weapon',
-  ['put_weapon']                                         = '🔫 Deposit weapon',
+  ['get_weapon']                                         = '📄 Take weapon',
+  ['put_weapon']                                         = '📄 Deposit weapon',
   ['take_inventory']                                     = '📄 Take an item',
   ['put_inventory']                                      = '📄 Deposit an item',
-  ['take_weapon_action']                                 = "✔️ Armory - Take weapon",
-  ['put_weapon_action']                                  = "❌ Armory - Deposit weapon",
-  ['quantity']                                           = "🔢 Quantity",
-  ['quantity_invalid']                                   = "❌ Invalid quantity !",
-  ['inventory']                                          = "🎒 Backpack",
+  ['take_weapon_action']                                 = "📄 Armory - Take weapon",
+  ['put_weapon_action']                                  = "📄 Armory - Deposit weapon",
+  ['quantity']                                           = "📄 Quantity",
+  ['quantity_invalid']                                   = "📄 Invalid quantity !",
+  ['inventory']                                          = "🎒 Inventory",
 }
