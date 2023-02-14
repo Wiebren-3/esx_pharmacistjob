@@ -4,7 +4,6 @@ Discription
 - This is a pharmacy job, with storage/vehiclespawner.
 
 Depencies
-- esx_billing
 - esx_status
 - esx_emotes
 
