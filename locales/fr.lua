@@ -1,29 +1,29 @@
-Locales['nl'] = {
+Locales['fr'] = {
   --######################
   --####MENU ITEMS########
   --######################
-  ['loanMenuItem']                                    = "📁 Lonen",
-  ['activeLoanMenuItem']                              = "📁 Actieve lonen",
-  ['frozenLoanMenuItem']                              = "📁 Bevroren lonen",
-  ['doLoanMenuItem']                                  = "📁 Creeër een loon",
-  ['billingMenuItem']                                 = "📝 Facturing",
+  ['loanMenuItem']                                    = "📁 Salaires",
+  ['activeLoanMenuItem']                              = "📁 Salaires actifs",
+  ['frozenLoanMenuItem']                              = "📁 Salaires gelés",
+  ['doLoanMenuItem']                                  = "📁 Créer un salaire",
+  ['billingMenuItem']                                 = "📝 Facturation",
   ['separatorMenuItem']                               = "- - - - -",
 
 
   --######################
   --####MENU NAME#########
   --######################
-  ['pharmacist']                                            = '💊 - Apotheek',
+  ['pharmacist']                                            = '💊 - Pharmacie',
 
 
   --##############################
   --#########TABLE ITEMS##########
   --##############################
   ['client']                                          = 'Client',
-  ['rate']                                            = 'Rate',
-  ['pharmacist']                                      = 'Medewerker',
-  ['actions']                                         = 'Acties',
-  ['status']                                          = 'Status',
+  ['rate']                                            = 'Taux',
+  ['pharmacist']                                      = 'Collègue',
+  ['actions']                                         = 'Actions',
+  ['status']                                          = 'Statut',
   --######################
   --#####MENU Actions#####
   --######################
