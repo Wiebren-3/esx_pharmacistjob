@@ -41,7 +41,7 @@ Config.AuthorizedVehicles = {
 	{
 		model = 'nspeedo',
 		label = 'Standard bus',
-		auth  = 'recruit'
+		auth  = 'supplier'
 	},
 	{
 		model = 'rmodgtr50',
