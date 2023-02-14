@@ -1,11 +1,11 @@
-Locales['en'] = {
+Locales['nl'] = {
   --######################
   --####MENU ITEMS########
   --######################
-  ['loanMenuItem']                                    = "📁 Loans",
-  ['activeLoanMenuItem']                              = "📁 Active Loans",
-  ['frozenLoanMenuItem']                              = "📁 Frozen Loans",
-  ['doLoanMenuItem']                                  = "📁 Make a Loan",
+  ['loanMenuItem']                                    = "📁 Lonen",
+  ['activeLoanMenuItem']                              = "📁 Actieve lonen",
+  ['frozenLoanMenuItem']                              = "📁 Bevroren lonen",
+  ['doLoanMenuItem']                                  = "📁 Creeër een loon",
   ['billingMenuItem']                                 = "📝 Facturing",
   ['separatorMenuItem']                               = "- - - - -",
 
