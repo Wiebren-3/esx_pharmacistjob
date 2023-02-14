@@ -1,7 +1,7 @@
 # esx_pharmacistjob
 
 Discription
-- This is a pharmacy job 
+- This is a pharmacy job, with storage/vehiclespawner.
 
 Depencies
 - esx_billing
