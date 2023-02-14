@@ -33,7 +33,7 @@ end)
 --#########################################
 
 
-AddEventHandler('esx_bankerjob:hasEnteredMarker', function (zone)
+AddEventHandler('esx_pharmacistjob:hasEnteredMarker', function (zone)
 	if zone == 'BankActions' and ESX.PlayerData.job and ESX.PlayerData.job.name == 'pharmacist' then
 		CurrentAction     = 'pharmacist_actions_menu'
 		CurrentActionMsg  = _U('press_input_context_to_open_menu')
@@ -92,11 +92,11 @@ Citizen.CreateThread(function()
 			end
 			if isInMarker and not hasAlreadyEnteredMarker then
 				hasAlreadyEnteredMarker, lastZone = true, currentZone
-				TriggerEvent('esx_bankerjob:hasEnteredMarker', currentZone)
+				TriggerEvent('esx_pharmacistjob:hasEnteredMarker', currentZone)
 			end
 			if not isInMarker and hasAlreadyEnteredMarker then
 				hasAlreadyEnteredMarker = false
-				TriggerEvent('esx_bankerjob:hasExitedMarker', lastZone)
+				TriggerEvent('esx_pharmacistjob:hasExitedMarker', lastZone)
 			end
 			if letSleep then
 				Citizen.Wait(500)
@@ -136,7 +136,7 @@ function OpenVehicleSpawnerMenu()
 	local elements = {}
 	ESX.UI.Menu.Open('default', GetCurrentResourceName(), 'vehicle_spawner',
 	{
-		css         = 'banker',
+		css         = 'pharmacist',
 		title		= _U('garage'),
 		align		= 'top-left',
 		elements	= Config.AuthorizedVehicles
