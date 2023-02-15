@@ -1,17 +1,17 @@
 # esx_pharmacistjob
 
-Discription
+#Discription
 - This is a pharmacy job, with storage/vehiclespawner.
 
-Depencies
+#Depencies
 - esx_status
 - esx_emotes
 
-Credits
+#Credits
 - Wiebren-3
 - ES_EXTENDED team
 
-Contact
+#Contact
 - @Wiebren#6393 (On discord)
 
 Items needed?
@@ -22,4 +22,4 @@ Items needed?
 
 Help with installation:
 - Add 'start esx_pharmacistjob' to the bottom of your server.cfg (in the esx collumn)
-- Add the SQL to your database (XAMMPP --> My SQL --> PHPMyAdmin
+- Add the SQL to your database (XAMMPP --> My SQL --> PHPMyAdmin)
