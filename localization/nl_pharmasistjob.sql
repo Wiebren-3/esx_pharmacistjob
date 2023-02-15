@@ -7,7 +7,7 @@ INSERT INTO `addon_inventory` (name, label, shared) VALUES
 ;
 
 INSERT INTO `datastore` (name, label, shared) VALUES
-	('society_pharmacist', 'ApothekerApotheker', 1)
+	('society_pharmacist', 'Apotheker', 1)
 ;
 
 INSERT INTO `jobs` (name, label) VALUES
