@@ -1,3 +1,5 @@
+USE `es_extended`;
+
 INSERT INTO `addon_account` (name, label, shared) VALUES
 	('society_pharmacist', 'Pharmacien', 1)
 ;
