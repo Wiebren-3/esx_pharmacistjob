@@ -6,6 +6,7 @@
 **Depencies**
 - esx_status
 - esx_emotes
+- async
 
 **Credits**
 - Wiebren-3
