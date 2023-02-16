@@ -2,7 +2,7 @@
 name: "[FEATURE]:"
 about: Suggest an idea for this project
 title: "[FEATURE]:"
-labels: ''
+labels: 'enhancment'
 assignees: ''
 
 ---
