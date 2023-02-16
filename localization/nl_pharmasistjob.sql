@@ -17,7 +17,7 @@ INSERT INTO `jobs` (name, label) VALUES
 ;
 
 INSERT INTO `job_grades` (job_name, grade, name, label, salar
-	('pharmacist',0,'recruit','Stagair',60,'{}','{}'),
+	('pharmacist',0,'recruit','Stagaire',60,'{}','{}'),
 	('pharmacist',1,'supplier','Leverancier',70,'{}','{}')
 	('pharmacist',2,'store_employe','Winkelmedewerker',80,'{}','{}'),
 	('pharmacist',3,'lab_employe','Labmedewerker',90,'{}','{}'),
