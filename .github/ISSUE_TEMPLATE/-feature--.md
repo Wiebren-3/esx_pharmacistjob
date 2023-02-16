@@ -1,7 +1,7 @@
 ---
 name: "[FEATURE]:"
-about: Suggestion/enhanced version
-title: "[BUG]: "
+about: Suggest an idea for this project
+title: "[FEATURE]:"
 labels: ''
 assignees: ''
 
