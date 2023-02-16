@@ -23,4 +23,4 @@
 **Help with installation:**
 - Rename the file to 'esx_pharmacistjob' instead of 'esx_pharmacistjob-main'
 - Add 'start esx_pharmacistjob' to the bottom of your server.cfg (in the esx collumn)
-- Add the SQL to your database (XAMMPP --> My SQL --> PHPMyAdmin)
+- Add the SQL to your database (XAMMPP --> My SQL --> ESX --> Import --> Select the SQL)
